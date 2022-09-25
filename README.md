@@ -1,4 +1,4 @@
-# Demo Crosshair Code
+# Demo Crosshair Code Made by https://github.com/BeepIsla
 
 Parse crosshair codes out of any CSGO demo you want!
 
