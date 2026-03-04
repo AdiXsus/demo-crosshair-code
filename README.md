@@ -4,7 +4,7 @@ Parse crosshair codes out of any CSGO demo you want!
 
 If nothing happens after a while its likely there is an error, open your browser-console and report it.
 
-**Available at [crosshair.adixsus.xyz]([https://crosshair.adixsus.xyz/](https://adixsus.github.io/demo-crosshair-code/))**
+**Available at [crosshair.adixsus.xyz](https://adixsus.github.io/demo-crosshair-code/)**
 
 # Credits
 
